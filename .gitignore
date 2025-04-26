@@ -1,0 +1,9 @@
+# Java ME typical ignores
+*.class
+*.jar
+*.jad
+bin/
+build/
+dist/
+.nbproject/
+.settings/
